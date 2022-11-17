@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "969503108742",
+    "firebase_url": "https://emprestimo-de-livros-default-rtdb.firebaseio.com",
+    "project_id": "emprestimo-de-livros",
+    "storage_bucket": "emprestimo-de-livros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969503108742:android:f8ee2bb816dd5b4a616b07",
+        "android_client_info": {
+          "package_name": "br.unigran.emprestimodelivros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969503108742-r2teg7jqltkbol0h48tdsfm0hmppl8t0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.unigran.emprestimodelivros",
+            "certificate_hash": "4f5bab03cb0fb0a5a51ff0f82e4089ede7af295b"
+          }
+        },
+        {
+          "client_id": "969503108742-1rfsh8oc27r4rmrm8nlu7ni96ppkt4k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2JmEouBL7GA28PVHAWHIpBaW8lVAFTTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969503108742-1rfsh8oc27r4rmrm8nlu7ni96ppkt4k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
